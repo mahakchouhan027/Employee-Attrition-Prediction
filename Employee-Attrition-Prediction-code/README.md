@@ -1,21 +1,11 @@
-# Employee Attrition
+Employee attrition means employees leaving a company, and it can quietly cause big problems and extra costs. Hiring new people isn’t just about paying their salary — it also takes time and effort to recruit, train, and help them settle in.
 
+Hiring and training a new employee can be expensive, often more than their salary.
 
+Small companies can spend over $1,500 per employee on training.
 
-Attrition is the silent killer that can switly disable even the most successful and stable of the organizations in a shockingly spare amount of time.
-Hiring new employees are extremely complex task that requires capital, time and skills.Also new employee costs a lot more than that Persons salary.
+It can take several months for a new employee to become fully productive.
 
-- The cost of hiring an employee goes far beyond just paying for their salary to encompass recruiting, training, benefits, and more.
-- Small companies spent, on average, more than $1,500 on training, per employee, in 2019.
-- Integrating a new employee into the organization can also require time and expenditures.
-- It can take up to six months or more for a company to break even on its investment in a new hire.
+In this project, I created a Machine Learning model to predict which employees might leave. I looked at the data using charts and graphs to understand patterns, and tried different ML algorithms to get the best results.
 
-[The Cost of Hiring a New Employee - Investopedia](https://www.investopedia.com/financial-edge/0711/the-cost-of-hiring-a-new-employee.aspx)
-
-In this project, I have developed a Machine Learning Model to predict the Employee Attrition by implementing various Machine Learning Algorithms.
-Conducted exploratory data analysis using various data visualization techniques.
-
-Achieved good accuracy on the 'IBM HR Analytics Employee Attrition & Performance' dataset from Kaggle,using Logistic Regression.
-
-Dataset Link - [IBM HR Analytics Employee Attrition & Performance](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
-
+I trained the model on the IBM HR Analytics Employee Attrition & Performance dataset from Kaggle, and Logistic Regression worked well.
